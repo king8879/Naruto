@@ -2,11 +2,11 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = "8019668327:AAFfvVgnHJq1nC38WgDh604Wk7B3Mr7x8TE"
+    BOT_TOKEN = "7822925118:AAH3am8r4RopB0NQrfj71FVNBZyd2KEbH1Q"
     
-    API_ID = 20054245
+    API_ID = 27262405
     
-    API_HASH = "431f22f320ed5d69225d3b3fc253fc0d"
+    API_HASH = "33011215edbd8c0f6b710df2fdf0b088"
     ADMIN_ID = [5034929962]
     
     DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
